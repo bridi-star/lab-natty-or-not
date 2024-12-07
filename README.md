@@ -1,16 +1,16 @@
-# Título do Projeto Extremamente Aesthetic ;)
+# Desenvolvendo Imagens  ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Desenvolver imagens criadas artificalmente com ferramentas de IA
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Microsoft Bing Criador de Imagens
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Descrevi que tipo de imagem eu gostaria que fosse criada
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Foi criado uma Imagem com programadores
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
